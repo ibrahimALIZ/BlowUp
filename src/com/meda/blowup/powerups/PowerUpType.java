@@ -1,0 +1,5 @@
+package com.meda.blowup.powerups;
+
+public enum PowerUpType {
+	SHIELD, FREEZE_MONSTERS, SLOWDOWN_DRONE, SLOWDOWN_MONSTERS,SPEEDUP_DRONE, SPEEDUP_MONSTERS, NEW_CHANCE
+}
